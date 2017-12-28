@@ -30,7 +30,9 @@ The plugin is designed to ensure the below features:</br>
 <b>Smart Contract</b></br>
 The contract is written in “Solidity” which is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). </br>
 
-Our smart contract is designed to follow the sending and receiving steps. Each step is represented by a method responsible for either checking a value for verification or saving a value for later retrieval. The contract also includes some helper methods for validation. Below are our main smart contract methods:</br>
+Our smart contract is designed to follow the sending and receiving steps. Each step is represented by a method responsible for either checking a value for verification or saving a value for later retrieval. The contract also includes some helper methods for validation. </br>
+
+Below are our main smart contract methods:</br>
 &nbsp;&nbsp;&nbsp;<b>•	uploadEmailId:</b><br/>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Description: Responsible for saving the recipient Ethereum public address along with the email Id which will be used as a reference for all communications between the sender and the receiver.</br>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Used by: Sender.</br>
@@ -46,6 +48,8 @@ Our smart contract is designed to follow the sending and receiving steps. Each s
 &nbsp;&nbsp;&nbsp;<b>•	getEmailKey:</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Description: Responsible for getting the encrypted shared key that will be used by the recipient to decrypt the original email.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Used by: Recipient.</br>
+
+Smart Contract: https://github.com/expitlabs/BlockchainSolutions/blob/master/SendEncryptedEmail/SendEncryptedEmail/PublishedContract.cs 
 
 <b>Downloads</b></br>
 A freely available test version of the product mentioned here is available for download, please note that this is a test only product and should not be used for any other purpose. The test version is available here: https://github.com/expitlabs/BlockchainSolutions/tree/master/SendEncryptedEmail/Published </br>
