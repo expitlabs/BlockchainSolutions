@@ -47,4 +47,14 @@ Our smart contract is designed to follow the sending and receiving steps. Each s
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Description: Responsible for getting the encrypted shared key that will be used by the recipient to decrypt the original email.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Used by: Recipient.</br>
 
+<b>Downloads</b></br>
+A freely available test version of the product mentioned here is available for download, please note that this is a test only product and should not be used for any other purpose. The test version is available here: https://github.com/expitlabs/BlockchainSolutions/tree/master/SendEncryptedEmail/Published </br>
+
+<b>Contact Information</b></br>
+Twitter: @ExpitLtd </br>
+Facebook: https://www.facebook.com/expitco/ </br>
+LinkedIn: https://www.linkedin.com/company/expit </br>
+
+
+
 
