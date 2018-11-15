@@ -52,7 +52,7 @@ Below are our main smart contract methods:</br>
 Smart Contract: https://github.com/expitlabs/BlockchainSolutions/blob/master/EXPIT%20Registered%20Email%20-%20Smart%20Contract.sol
 
 <b>Downloads</b></br>
-A freely available test version of the product mentioned here is available for download, please note that this is a test only product and should not be used for any other purpose. The test version is available here: https://github.com/expitlabs/BlockchainSolutions/blob/master/EXPIT%20Registered%20Email.zip </br>
+A freely available test version of the product mentioned here is available for download, please note that this is a test only product and should not be used for any other purpose. The test version is available here: https://registeremail.expit.com/ </br>
 
 <b>Contact Information</b></br>
 Twitter: @ExpitLtd </br>
